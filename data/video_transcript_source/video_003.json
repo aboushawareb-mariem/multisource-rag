@@ -1,0 +1,56 @@
+{
+    "video_id": "VIDEO_003",
+    "pdf_reference": "customers_guide.pdf",
+    "video_transcripts": [
+      { "id": 1, "timestamp": 0.40, "word": "In" },
+      { "id": 2, "timestamp": 0.70, "word": "this" },
+      { "id": 3, "timestamp": 1.00, "word": "tutorial" },
+      { "id": 4, "timestamp": 1.30, "word": "we" },
+      { "id": 5, "timestamp": 1.60, "word": "will" },
+      { "id": 6, "timestamp": 1.90, "word": "edit" },
+      { "id": 7, "timestamp": 2.20, "word": "an" },
+      { "id": 8, "timestamp": 2.50, "word": "existing" },
+      { "id": 9, "timestamp": 2.80, "word": "customer" },
+  
+      { "id": 10, "timestamp": 5.00, "word": "First" },
+      { "id": 11, "timestamp": 5.30, "word": "open" },
+      { "id": 12, "timestamp": 5.60, "word": "the" },
+      { "id": 13, "timestamp": 5.90, "word": "customers" },
+      { "id": 14, "timestamp": 6.20, "word": "tab" },
+      { "id": 15, "timestamp": 6.50, "word": "from" },
+      { "id": 16, "timestamp": 6.80, "word": "the" },
+      { "id": 17, "timestamp": 7.10, "word": "main" },
+      { "id": 18, "timestamp": 7.40, "word": "menu" },
+  
+      { "id": 19, "timestamp": 9.00, "word": "Search" },
+      { "id": 20, "timestamp": 9.30, "word": "for" },
+      { "id": 21, "timestamp": 9.60, "word": "the" },
+      { "id": 22, "timestamp": 9.90, "word": "customer" },
+      { "id": 23, "timestamp": 10.20, "word": "you" },
+      { "id": 24, "timestamp": 10.50, "word": "want" },
+      { "id": 25, "timestamp": 10.80, "word": "to" },
+      { "id": 26, "timestamp": 11.10, "word": "update" },
+  
+      { "id": 27, "timestamp": 13.00, "word": "Click" },
+      { "id": 28, "timestamp": 13.30, "word": "on" },
+      { "id": 29, "timestamp": 13.60, "word": "the" },
+      { "id": 30, "timestamp": 13.90, "word": "customer" },
+      { "id": 31, "timestamp": 14.20, "word": "row" },
+  
+      { "id": 32, "timestamp": 16.00, "word": "Then" },
+      { "id": 33, "timestamp": 16.30, "word": "press" },
+      { "id": 34, "timestamp": 16.60, "word": "edit" },
+      { "id": 35, "timestamp": 16.90, "word": "to" },
+      { "id": 36, "timestamp": 17.20, "word": "change" },
+      { "id": 37, "timestamp": 17.50, "word": "the" },
+      { "id": 38, "timestamp": 17.80, "word": "customer" },
+      { "id": 39, "timestamp": 18.10, "word": "details" },
+  
+      { "id": 40, "timestamp": 20.00, "word": "Remember" },
+      { "id": 41, "timestamp": 20.30, "word": "to" },
+      { "id": 42, "timestamp": 20.60, "word": "save" },
+      { "id": 43, "timestamp": 20.90, "word": "your" },
+      { "id": 44, "timestamp": 21.20, "word": "changes" }
+    ]
+  }
+  

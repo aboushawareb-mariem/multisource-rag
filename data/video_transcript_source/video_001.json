@@ -1,0 +1,32 @@
+{
+    "video_id": "VIDEO_001",
+    "pdf_reference": "customers_guide.pdf",
+    "video_transcripts": [
+      { "id": 1, "timestamp": 0.50, "word": "Welcome" },
+      { "id": 2, "timestamp": 0.80, "word": "to" },
+      { "id": 3, "timestamp": 1.00, "word": "the" },
+      { "id": 4, "timestamp": 1.20, "word": "customer" },
+      { "id": 5, "timestamp": 1.50, "word": "management" },
+      { "id": 6, "timestamp": 1.90, "word": "tutorial" },
+  
+      { "id": 7, "timestamp": 5.10, "word": "To" },
+      { "id": 8, "timestamp": 5.30, "word": "add" },
+      { "id": 9, "timestamp": 5.60, "word": "a" },
+      { "id": 10, "timestamp": 5.90, "word": "new" },
+      { "id": 11, "timestamp": 6.20, "word": "customer" },
+  
+      { "id": 12, "timestamp": 7.00, "word": "click" },
+      { "id": 13, "timestamp": 7.30, "word": "on" },
+      { "id": 14, "timestamp": 7.60, "word": "the" },
+      { "id": 15, "timestamp": 7.90, "word": "customers" },
+      { "id": 16, "timestamp": 8.20, "word": "tab" },
+  
+      { "id": 17, "timestamp": 9.50, "word": "Then" },
+      { "id": 18, "timestamp": 9.80, "word": "press" },
+      { "id": 19, "timestamp": 10.10, "word": "the" },
+      { "id": 20, "timestamp": 10.40, "word": "add" },
+      { "id": 21, "timestamp": 10.70, "word": "customer" },
+      { "id": 22, "timestamp": 11.00, "word": "button" }
+    ]
+  }
+  

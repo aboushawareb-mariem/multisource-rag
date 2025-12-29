@@ -1,0 +1,49 @@
+{
+    "video_id": "VIDEO_004",
+    "pdf_reference": "customers_guide.pdf",
+    "video_transcripts": [
+      { "id": 1, "timestamp": 0.50, "word": "This" },
+      { "id": 2, "timestamp": 0.80, "word": "video" },
+      { "id": 3, "timestamp": 1.10, "word": "explains" },
+      { "id": 4, "timestamp": 1.40, "word": "how" },
+      { "id": 5, "timestamp": 1.70, "word": "to" },
+      { "id": 6, "timestamp": 2.00, "word": "export" },
+      { "id": 7, "timestamp": 2.30, "word": "customer" },
+      { "id": 8, "timestamp": 2.60, "word": "data" },
+  
+      { "id": 9, "timestamp": 5.00, "word": "Go" },
+      { "id": 10, "timestamp": 5.30, "word": "to" },
+      { "id": 11, "timestamp": 5.60, "word": "the" },
+      { "id": 12, "timestamp": 5.90, "word": "customers" },
+      { "id": 13, "timestamp": 6.20, "word": "section" },
+  
+      { "id": 14, "timestamp": 8.00, "word": "Use" },
+      { "id": 15, "timestamp": 8.30, "word": "the" },
+      { "id": 16, "timestamp": 8.60, "word": "filters" },
+      { "id": 17, "timestamp": 8.90, "word": "to" },
+      { "id": 18, "timestamp": 9.20, "word": "select" },
+      { "id": 19, "timestamp": 9.50, "word": "the" },
+      { "id": 20, "timestamp": 9.80, "word": "customers" },
+      { "id": 21, "timestamp": 10.10, "word": "you" },
+      { "id": 22, "timestamp": 10.40, "word": "need" },
+  
+      { "id": 23, "timestamp": 12.50, "word": "Then" },
+      { "id": 24, "timestamp": 12.80, "word": "open" },
+      { "id": 25, "timestamp": 13.10, "word": "the" },
+      { "id": 26, "timestamp": 13.40, "word": "actions" },
+      { "id": 27, "timestamp": 13.70, "word": "menu" },
+  
+      { "id": 28, "timestamp": 15.50, "word": "Click" },
+      { "id": 29, "timestamp": 15.80, "word": "export" },
+      { "id": 30, "timestamp": 16.10, "word": "and" },
+      { "id": 31, "timestamp": 16.40, "word": "choose" },
+      { "id": 32, "timestamp": 16.70, "word": "CSV" },
+  
+      { "id": 33, "timestamp": 19.00, "word": "The" },
+      { "id": 34, "timestamp": 19.30, "word": "file" },
+      { "id": 35, "timestamp": 19.60, "word": "will" },
+      { "id": 36, "timestamp": 19.90, "word": "download" },
+      { "id": 37, "timestamp": 20.20, "word": "automatically" }
+    ]
+  }
+  

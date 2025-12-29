@@ -1,0 +1,27 @@
+{
+    "video_id": "VIDEO_002",
+    "pdf_reference": "customers_guide.pdf",
+    "video_transcripts": [
+      { "id": 1, "timestamp": 0.40, "word": "In" },
+      { "id": 2, "timestamp": 0.70, "word": "this" },
+      { "id": 3, "timestamp": 1.00, "word": "video" },
+      { "id": 4, "timestamp": 1.30, "word": "we" },
+      { "id": 5, "timestamp": 1.60, "word": "will" },
+      { "id": 6, "timestamp": 1.90, "word": "remove" },
+      { "id": 7, "timestamp": 2.20, "word": "a" },
+      { "id": 8, "timestamp": 2.50, "word": "customer" },
+  
+      { "id": 9, "timestamp": 4.00, "word": "Select" },
+      { "id": 10, "timestamp": 4.30, "word": "the" },
+      { "id": 11, "timestamp": 4.60, "word": "customer" },
+      { "id": 12, "timestamp": 4.90, "word": "from" },
+      { "id": 13, "timestamp": 5.20, "word": "the" },
+      { "id": 14, "timestamp": 5.50, "word": "list" },
+  
+      { "id": 15, "timestamp": 6.50, "word": "Click" },
+      { "id": 16, "timestamp": 6.80, "word": "delete" },
+      { "id": 17, "timestamp": 7.10, "word": "and" },
+      { "id": 18, "timestamp": 7.40, "word": "confirm" }
+    ]
+  }
+  
