@@ -87,6 +87,7 @@ This can be used as a first draft for the system design, then the logic (for chu
 -- If no answer from video, repeat for pdf
 -- Refine answer with LLMClient
 -- Format and print answer.
+
 ## How To?
 - Upload data in the `data` folder either in `pdf_source` or `video_transcript_source` depending on the type.
 - Running with the terminal: `python3 main.py --question "<your question>"`
@@ -95,6 +96,45 @@ This can be used as a first draft for the system design, then the logic (for chu
 - Example question for pdf source: "what is mojo 2?"
 - Configurations such as paths, api keys, model names, thresholds can be tweaked through environment variables.
     - Example for the .env file is found in .env.example
+
+## Example Input, Output
+- Video: 
+    - Input: `python3 main.py --question "How to find a list of existing customers?"`
+    - Output: 
+            === QUESTION ===
+            How to find a list of existing customers?
+
+            === SOURCE ===
+            Type: Video
+            Video ID: VIDEO_003
+            Timestamps: 7.8 – 12.2
+            Start token_id: 36 End token_id: 55
+
+            === RAW ANSWER ===
+            can see a list of all existing customers. If you want to add a new customer, click the Add Customer
+
+            === REFINED ANSWER ===
+            You can see a list of all existing customers. If you want to add a new customer, click the Add Customer.
+- PDF: 
+    - Input: `python3 main.py --question "what is mojo 2?"`
+    - Output: 
+            === QUESTION ===
+            what is mojo 2?
+
+            === SOURCE ===
+            Type: PDF
+            PDF: user_manual_1.pdf
+            Page: 5
+            Paragraph: 1
+            raw text: The Mojo 2 manual is divided into two key sections: basic operation and advanced operation. Basic 
+            operation (6.0) covers everything needed to get started and enjoy using Mojo 2. More advanced menu 
+            options are explained in 7.0.
+            summary: The provided text describes the organization of the **Mojo 2 manual**, rather than defining what Mojo 2 is. It states the manual is divided into two main sections: basic operation (6.0), which covers getting started, and advanced operation (7.0), which explains more complex menu options.
+- API: Same output through Swagger UI in the response. In the terminal there is also a log of which answer is not None, either video, pdf or both. Example:
+            INFO: Video answer: False
+            INFO: PDF answer: True
+
+
 ## Dependencies
 - sentence-transformers
 - faiss-cpu
