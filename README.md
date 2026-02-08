@@ -1,4 +1,4 @@
-# Explaino RAG System
+# RAG System
 This project implements a Retrieval-Augmented Generation (RAG) system that answers user questions by retrieving relevant information from video transcripts and PDF documents, then refining the response using a language model.
 
 The system is designed to be extensible, configurable, and easy to reason about, with clear separation between preprocessing, retrieval, indexing, and answer refinement.
